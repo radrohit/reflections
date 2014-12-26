@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, a hidden git file is created. This is used to track the changes
+made by the users of the repository. You need to initialize the repository inorder to have version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory is a file in the system. Staging area acts as an intermidiary between repository and working directory.
+Repository contains the final commits and change. The main advantage of staging area
+it acts as a shield between repository and working directory preventing us from commiting a file carelessly
+ 
