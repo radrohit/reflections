@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Before knowing about diff, I go through each and every line and see for some differences.
+It is timeconsuming as well as difficult to find errors. With diff, I am able to get to the line
+where there is an error and rectify it. I think it will be really useful when I make changes
+to code provided by book authors and open source community. It would have been really useful
+if i had know about this when I was doing group projects for my computer classes.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Usually when I create program in the middle of the program I come up with new efficient idea that would make my program produce the desired result.
+But most of the time this complicates my program, so I usually wish I could go back to the old version.
+If it is current version I usually use undo and copy and paste to get desired code. With knowledge
+of entire history of file I could easily navigate between different version of the file and
+go to a point where I felt the program was good. This is going to save me a lot of time and energy
+
+What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google docs does?
+
+In automatic saving we would sometimes do a lot during an hour or very little during an hour. The former case results in difficult to comprehend
+change and latter case results in incorrect running of code.
+The advantage of automatic saving we would not lose the document if we failed to save the change. 
+Depending on the nature of commit, we could look at small related changes
+rather than large unrelated changes. It would be easier for other programmers to find whether there is mistake
+in our change. 
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each 
+file separately?
+It depends mainly on the end users. Google docs usually have people changing
+one document multiple times rather than a group of documents. Whereas Git has 
+users who usually change multiple related files at the same time. 
+
+
+
