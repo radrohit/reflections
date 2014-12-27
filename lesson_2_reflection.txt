@@ -6,4 +6,9 @@ How is the staging area different from the working directory and the repository?
 Working directory is a file in the system. Staging area acts as an intermidiary between repository and working directory.
 Repository contains the final commits and change. The main advantage of staging area
 it acts as a shield between repository and working directory preventing us from commiting a file carelessly
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use git diff --staged to see the changes you made and if you have more than one logical change try to differentiate each logical change
+and commit one at a time.
+
  
