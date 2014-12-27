@@ -20,4 +20,8 @@ and commit one at a time.
  How do the diagrams help you visualize the branch structure?
  Diagram helps us to draw the branches and see where it is splitting. It also helps us to identify commits that are not specific to a branch. 
 
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ When we merge two branch, the commits from both can be accessed from a single point. 
+ Changes that are common and code insertion by both users are added but deletion by either users are not added. 
+ We represent the diagram that way since both branches are accessible. 
  
