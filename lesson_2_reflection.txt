@@ -17,4 +17,7 @@ and commit one at a time.
  During this time branches would be really helpful in separating the task and prevent overlapping of the code. By using branches we give different name to our implementations,
  this helpe us in keeping distinct changes separate.
 
+ How do the diagrams help you visualize the branch structure?
+ Diagram helps us to draw the branches and see where it is splitting. It also helps us to identify commits that are not specific to a branch. 
+
  
