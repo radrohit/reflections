@@ -24,4 +24,8 @@ and commit one at a time.
  When we merge two branch, the commits from both can be accessed from a single point. 
  Changes that are common and code insertion by both users are added but deletion by either users are not added. 
  We represent the diagram that way since both branches are accessible. 
- 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros of doing automatic merging it is fast. The pros of doing manually is 
+the users can communicate with each other therby avoiding any future conflict due
+to the changes made.
