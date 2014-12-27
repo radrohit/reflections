@@ -11,4 +11,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use git diff --staged to see the changes you made and if you have more than one logical change try to differentiate each logical change
 and commit one at a time.
 
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ When you are making many different changes ,like adding a new feature, debugging the code and implementing a better code,
+ you would want these changes to be disjoint from the original code.
+ During this time branches would be really helpful in separating the task and prevent overlapping of the code. By using branches we give different name to our implementations,
+ this helpe us in keeping distinct changes separate.
+
  
