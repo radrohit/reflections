@@ -4,3 +4,8 @@ Why might you want to always pull changes manually rather than having Git automa
 In a project, a user might make changes to local repository without pushing it to the remote repository. 
 There will be changes added to github by other users and it will become tedious for 
 you and github to clarify these changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches is something that branches out of the main version. It can be a new feature
+or a some editing. Clones is merging the online github version with the local computer version. 
+Fork is copying a file from another github user and we can make changes to the copied file without affecting the orginal file,
